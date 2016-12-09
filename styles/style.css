@@ -16,11 +16,6 @@ body {
     width: 100vw;
 }
 
-header {
-	margin-top: 25px;
-    margin-left: 25px;
-}
-
 iframe {
     height: 100%;
     width: 100%;
@@ -34,6 +29,8 @@ img {
 }
 
 img.logo {
+	  max-width: 25%;
+		padding: 20px;
     border:none;
 }
 
@@ -92,7 +89,6 @@ img.logo {
 	}
 
 	.item {
-
 		position: absolute;
 }
 
